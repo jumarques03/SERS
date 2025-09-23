@@ -1,20 +1,20 @@
 # CP02 
 
-Este repositório contém as resoluções dos exercícios **CP02-01** e **CP02-02**.
+Este repositório contém as resoluções dos exercícios **CP02-001** e **CP02-002**.
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-- `CP02_001_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-01**  
-- `CP02_002_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-02**  
+- `CP02_001_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-001**  
+- `CP02_002_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-002**  
 - `orange_fluxo.svg` e `orange.ows` → Fluxo do Orange referente às análises 
 
 ---
 
 ## 📑 Exercícios e Datasets Utilizados
 
-### 🔹 CP02-01
+### 🔹 CP02-001
 
 #### **Exercício 01 – Appliances Energy Prediction**  
 - **Dataset:** [Appliances Energy Prediction (UCI)](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)  
@@ -30,7 +30,7 @@ Este repositório contém as resoluções dos exercícios **CP02-01** e **CP02-0
 
 ---
 
-### 🔹 CP02-02
+### 🔹 CP02-002
 
 #### **Exercício 01 – Solar Energy**  
 - **Dataset:** [Solar Energy Production (Kaggle)](https://www.kaggle.com/datasets/dronio/SolarEnergy)  
