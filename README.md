@@ -8,7 +8,7 @@ Este repositório contém as resoluções dos exercícios **CP02-001** e **CP02-
 
 - `CP02_001_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-001**  
 - `CP02_002_SERS.ipynb` → Exercícios **01** e **02** da parte **CP02-002**  
-- `orange_fluxo.svg` e `orange.ows` → Fluxo do Orange referente às análises 
+- `orange_fluxo.svg` e `Orange.ows` → Fluxo do Orange referente às análises 
 
 ---
 
